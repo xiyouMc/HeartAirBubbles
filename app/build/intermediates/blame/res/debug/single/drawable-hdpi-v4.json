@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\android_github\\HeartFaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\android_github\\HeartFaom\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_github\\HeartFaom1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_red.png",
+        "source": "D:\\android_github\\HeartFaom1\\app\\src\\main\\res\\drawable-hdpi\\pl_red.png"
+    },
+    {
+        "merged": "D:\\android_github\\HeartFaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_blue.png",
+        "source": "D:\\android_github\\HeartFaom\\app\\src\\main\\res\\drawable-hdpi\\pl_blue.png"
+    },
+    {
+        "merged": "D:\\android_github\\HeartFaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_yellow.png",
+        "source": "D:\\android_github\\HeartFaom\\app\\src\\main\\res\\drawable-hdpi\\pl_yellow.png"
+    },
+    {
+        "merged": "D:\\android_github\\HeartFaom1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_yellow.png",
+        "source": "D:\\android_github\\HeartFaom1\\app\\src\\main\\res\\drawable-hdpi\\pl_yellow.png"
+    },
+    {
+        "merged": "D:\\android_github\\HeartFaom1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_blue.png",
+        "source": "D:\\android_github\\HeartFaom1\\app\\src\\main\\res\\drawable-hdpi\\pl_blue.png"
+    },
+    {
+        "merged": "D:\\android_github\\HeartFaom1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\android_github\\HeartFaom1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_github\\HeartFaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_red.png",
+        "source": "D:\\android_github\\HeartFaom\\app\\src\\main\\res\\drawable-hdpi\\pl_red.png"
+    }
+]

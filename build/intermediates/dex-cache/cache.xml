@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\HeartFaom\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\android_github\HeartFaom\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_2da27673fafe0ccff830fc358a6a86a30c712dbe.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\android_github\HeartFaom\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_5ddb85384c211a11347e988071d554579bf749fc.jar" />
+    </item>
+    <item
+        jar="D:\android_github\HeartFaom\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\android_github\HeartFaom\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_76e65d9d7a0813d500deaaa55b7f062f3f192e03.jar" />
+    </item>
+
+</items>
