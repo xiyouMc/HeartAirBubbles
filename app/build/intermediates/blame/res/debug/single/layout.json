@@ -1,10 +1,14 @@
 [
     {
-        "merged": "D:\\android_github\\HeartFaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\android_github\\HeartFaom\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/xiyoumc/dev/github/heartfaom/HeartFaom/D:\\android_github\\HeartFaom1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/xiyoumc/dev/github/heartfaom/HeartFaom/D:\\android_github\\HeartFaom1\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\android_github\\HeartFaom1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\android_github\\HeartFaom1\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/xiyoumc/dev/github/heartfaom/HeartFaom/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/xiyoumc/dev/github/heartfaom/HeartFaom/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/xiyoumc/dev/github/heartfaom/HeartFaom/D:\\android_github\\HeartFaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/xiyoumc/dev/github/heartfaom/HeartFaom/D:\\android_github\\HeartFaom\\app\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]
